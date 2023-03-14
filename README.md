@@ -2,7 +2,9 @@
 
 This project is a simple calendar application that allows a user to save events for each hour of the day. 
 
-![Calendar](Assets/Images/Calendar-screenshot.png) 
+![Calendar](Assets/Calendar-screenshot.png) 
+
+
  
 # Calendar Features:
  * his app will run in the browser <br />
@@ -12,7 +14,7 @@ This project is a simple calendar application that allows a user to save events 
 # Website Link
 
  Link to the deployed site:
- [Javascript Calendar Website](https://jvn101.github.io//)
+ [Calendar Website](https://jvn101.github.io/05-Third-Party-APIs-Work-Day-Scheduler/)
 
 ***
 ### Contact us
