@@ -2,7 +2,7 @@
 
 This project is a simple calendar application that allows a user to save events for each hour of the day. 
 
-![Calendar](/Assets/Calendar-screenshot.png) 
+![Calendar](/Assets/Images/Calendar-screenshot.png) 
 
 
  
