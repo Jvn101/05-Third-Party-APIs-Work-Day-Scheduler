@@ -7,7 +7,7 @@ This project is a simple calendar application that allows a user to save events 
 
  
 # Calendar Features:
- * his app will run in the browser <br />
+ * This app will run in the browser <br />
  * It features dynamically updated HTML and CSS powered by jQuery<br />
 
 
