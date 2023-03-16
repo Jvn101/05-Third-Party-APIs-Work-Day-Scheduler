@@ -13,8 +13,9 @@ This project is a simple calendar application that allows a user to save events 
 
 # Website Link
 
- Link to the deployed site:
- [Calendar Website](https://jvn101.github.io/05-Third-Party-APIs-Work-Day-Scheduler/)
+ Link to the deployed site: 
+ [Calendar Website] https://jvn101.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
+ 
 
 ***
 ### Contact us
